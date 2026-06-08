@@ -11,8 +11,6 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.gif" width="100%"/>
-
 
 ### 🚀 About Me
 - 🎓 B.Sc. Computer Science @ FU Berlin (exchange @ NUS Singapore)
@@ -54,11 +52,6 @@
 ### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bene1106&theme=tokyo-night&hide_border=true"/>
-</p>
-
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bene1106&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 
