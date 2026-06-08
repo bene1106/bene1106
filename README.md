@@ -16,7 +16,7 @@
 - 🎓 B.Sc. Computer Science @ FU Berlin (exchange @ NUS Singapore)
 - 🔬 Research: regime-aware portfolio optimization (NUS) & multimodal contrastive learning (Charité / BUA)
 - 🧠 Interests: machine learning, quantitative finance, signal processing
-- 🛠️ Previously co-founded DistricTee (print-on-demand streetwear, UG · 1st place Funpreneur)
+- 🛠️ Previously co-founded DistricTee (print-on-demand streetwear, UG | 1st place Funpreneur)
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,7 +27,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-🤖 AI-assisted full-stack prototyping with Claude Code (Full Stack)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=🤖+AI-assisted+full-stack+prototyping+with+Claude+Code" />
+</p>
+
 
 ### 📊 GitHub Stats
 <p align="center">
