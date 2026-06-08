@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 - 🎓 B.Sc. Computer Science @ FU Berlin (exchange @ NUS Singapore)
-- 🔬 Research: regime-aware portfolio optimization & multimodal contrastive learning (Charité / BUA)
+- 🔬 Research: regime-aware portfolio optimization (NUS) & multimodal contrastive learning (Charité / BUA)
 - 🧠 Interests: machine learning, quantitative finance, signal processing
 - 🛠️ Previously co-founded DistricTee (print-on-demand streetwear, UG · 1st place Funpreneur)
 
@@ -28,13 +28,6 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 🤖 AI-assisted full-stack prototyping with Claude Code (Full Stack)
-
-### 📌 Featured Projects
-| Project | Description |
-|---|---|
-| [hired](https://github.com/bene1106/hired) | Local-first AI career agent · Tauri + React + FastAPI |
-| [wifi-sensing-esp32c6](https://github.com/bene1106/wifi-sensing-esp32c6) | Activity recognition via WiFi-CSI · 97.5% accuracy |
-| [AutoMLProjekt](https://github.com/bene1106/AutoMLProjekt) | Regime-aware portfolio optimization (XGBoost + meta-MLP) |
 
 ### 📊 GitHub Stats
 <p align="center">
