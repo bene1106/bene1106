@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Bene%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=ML+%26+Quantitative+Finance;WiFi-Sensing+%7C+97.5%25+Accuracy;CS+%40+Freie+Universit%C3%A4t+Berlin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=CS+%40+Freie+Universit%C3%A4t+Berlin" />
 </p>
 
 <p align="center">
