@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bene 👋</h1>
 
 <p align="center">
-  CS @ Freie Universität Berlin · ML & Quantitative Finance · WiFi-Sensing
+  CS @ Freie Universität Berlin | NUS | ML
 </p>
 
 <p align="center">
