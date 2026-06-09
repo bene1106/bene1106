@@ -29,25 +29,21 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bene1106/bene1106/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=%2B+Full+stack+development+with+AI" />
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bene1106&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bene1106&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bene1106&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bene1106/bene1106/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ### 📈 Activity Graph
 <p align="center">
