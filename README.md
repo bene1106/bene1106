@@ -16,7 +16,6 @@
 - 🎓 B.Sc. Computer Science @ FU Berlin (exchange @ NUS Singapore)
 - 🔬 Research: regime-aware portfolio optimization (NUS) & multimodal contrastive learning (Charité / BUA)
 - 🧠 Interests: machine learning, quantitative finance, signal processing
-- 🛠️ Previously co-founded DistricTee (print-on-demand streetwear, UG | 1st place Funpreneur)
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
