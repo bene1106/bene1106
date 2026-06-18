@@ -12,6 +12,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bene1106/bene1106/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+
 ### About Me
 - 🎓 B.Sc. Computer Science @ FU Berlin (exchange @ NUS Singapore)
 - 🔬 Research: regime-aware portfolio optimization (NUS) & multimodal contrastive learning (Charité / BUA)
@@ -32,11 +37,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=%2B+Full+stack+development+with+AI" />
-</p>
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bene1106/bene1106/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 
