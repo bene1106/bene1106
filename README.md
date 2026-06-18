@@ -39,12 +39,6 @@
   <img src="https://raw.githubusercontent.com/bene1106/bene1106/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bene1106&theme=tokyonight&hide_border=true"/>
-</p>
-
 
 ### 📈 Activity Graph
 <p align="center">
